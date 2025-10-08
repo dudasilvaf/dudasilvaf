@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| Site | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
+| Site | [[🔗 Ver online](https://seu-link.com)](https://github.com/dudasilvaf/site1) | HTML / CSS / JS          |
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 

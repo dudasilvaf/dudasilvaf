@@ -34,7 +34,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 |-----------------------|-------------------------------------|--------------------------|
 | Site | [[🔗 Ver online](https://seu-link.com)](https://github.com/dudasilvaf/site1) | HTML / CSS / JS          |
 | Tabela de jogos | [[🔗 Ver online]([https://seu-link.com](https://github.com/dudasilvaf/brasileir-o-tabela) | Node.js / Express / MySQL|
-| Blocos | [[🔗 Ver online](https://seu-link.com](https://github.com/dudasilvaf/blocos)) | Flutter / Dart           |
+| Blocos | [[🔗 Ver online](https://seu-link.com](https://github.com/dudasilvaf/blocos) | Flutter / Dart           |
 
 ---
 

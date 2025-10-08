@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou Duda
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
 
@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
+| Site | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
@@ -42,11 +42,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
+- 🎓 Atualmente estudo no Sesi
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
+- 🎯 Meu objetivo é ser programadora
 - 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- ✝ Provérbios 16,3. “Confia ao Senhor as tuas obras, e teus planos se realizarão”.
 
 ---
 

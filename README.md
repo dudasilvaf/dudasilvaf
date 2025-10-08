@@ -33,10 +33,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | Site | [[🔗 Ver online](https://seu-link.com)](https://github.com/dudasilvaf/site1) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
+| Tabela de jogos | [[🔗 Ver online](https://seu-link.com](https://github.com/dudasilvaf/brasileir-o-tabela)) | Node.js / Express / MySQL|
 | Blocos | [[🔗 Ver online](https://seu-link.com](https://github.com/dudasilvaf/blocos)) | Flutter / Dart           |
-
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
@@ -45,7 +43,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎓 Atualmente estudo no Sesi
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
 - 🎯 Meu objetivo é ser programadora
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
+- 📚 Gosto de aprender sobre html, css
 - ✝ Provérbios 16,3. “Confia ao Senhor as tuas obras, e teus planos se realizarão”.
 
 ---

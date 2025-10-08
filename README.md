@@ -41,7 +41,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no Sesi
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
+- 💻 Estou aprendendo css, html
 - 🎯 Meu objetivo é ser programadora
 - 📚 Gosto de aprender sobre html, css
 - ✝ Provérbios 16,3. “Confia ao Senhor as tuas obras, e teus planos se realizarão”.
